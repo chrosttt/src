@@ -1,0 +1,49 @@
+2025-10-07T19:55:38.742Z [ERROR] Unhandled error: req.csrfToken is not a function
+2025-10-07T19:55:44.735Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T19:55:54.102Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T19:57:29.885Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:01:57.889Z [ERROR] Unhandled error: req.csrfToken is not a function
+2025-10-07T20:02:04.857Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:02:12.059Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:02:16.709Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:02:28.423Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:02:38.158Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:04:37.186Z [ERROR] Unhandled error: req.csrfToken is not a function
+2025-10-07T20:04:46.041Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:04:58.486Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:07:03.605Z [ERROR] Unhandled error: req.csrfToken is not a function
+2025-10-07T20:07:10.769Z [ERROR] Unhandled error: invalid csrf token
+2025-10-07T20:11:22.510Z [INFO] User registered: christy
+2025-10-07T20:11:34.109Z [INFO] Successful login: christy
+2025-10-07T20:11:48.783Z [WARN] Failed login for admin: invalid password
+2025-10-07T20:11:59.774Z [INFO] Successful login: admin
+2025-10-07T20:12:48.222Z [INFO] User registered: christyf
+2025-10-07T20:20:47.949Z [INFO] User registered: christy
+2025-10-07T20:21:49.545Z [WARN] Failed login for christy: invalid password
+2025-10-07T20:21:55.209Z [WARN] Failed login for christy: invalid password
+2025-10-07T20:21:59.835Z [WARN] Failed login for christy: invalid password
+2025-10-07T20:22:05.470Z [WARN] Failed login for christy: invalid password
+2025-10-07T20:22:11.314Z [WARN] Failed login for christy: invalid password
+2025-10-07T20:22:16.175Z [WARN] Too many login attempts from ::ffff:127.0.0.1
+2025-10-07T20:25:48.286Z [WARN] Too many login attempts from ::ffff:127.0.0.1
+2025-10-07T20:26:04.518Z [WARN] Too many login attempts from ::ffff:127.0.0.1
+2025-10-07T20:34:09.671Z [WARN] Too many login attempts from ::ffff:127.0.0.1
+2025-10-07T20:41:13.518Z [INFO] Successful login: admin
+2025-10-08T10:26:43.223Z [INFO] User registered: christy
+2025-10-08T10:26:56.188Z [INFO] Successful login: christy
+2025-10-08T10:27:18.507Z [WARN] Failed login for admin: invalid password
+2025-10-08T10:27:21.893Z [INFO] Successful login: admin
+2025-10-08T10:34:44.571Z [INFO] Successful login: christy
+2025-10-08T10:34:54.916Z [INFO] Successful login: christy
+2025-10-08T10:35:06.972Z [INFO] Successful login: admin
+2025-10-08T10:38:42.017Z [INFO] Successful login: christy
+2025-10-08T10:38:47.195Z [WARN] Unauthorized role access by christy
+2025-10-08T10:41:06.743Z [INFO] Successful login: christy
+2025-10-08T10:41:09.127Z [WARN] Unauthorized role access by christy
+2025-10-08T11:40:54.095Z [INFO] Successful login: christy
+2025-10-08T11:41:14.965Z [INFO] Successful login: admin
+2025-10-08T11:41:39.821Z [INFO] Successful login: christy
+2025-10-08T11:41:42.254Z [WARN] Unauthorized role access by christy
+2025-10-13T12:36:45.217Z [INFO] User registered: christy
+2025-10-13T12:36:54.024Z [INFO] Successful login: christy
+2025-10-13T12:37:02.943Z [INFO] Successful login: admin

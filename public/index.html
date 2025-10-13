@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr" x-data="themeHandler()" :class="theme">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+    <script src="javascript/script.js" defer></script>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <h1>Mon Blog</h1>
+        <button onclick="toggleTheme()">Toggle dark mode</button>
+    </header>
+
+    <!-- MAIN GRID CONTAINER -->
+    <main class="grid-container">
+        <!-- Article 1 -->
+        <article class="card">
+            <h2>Article 1</h2>
+            <p>Résumé de l'article 1 : introduction au développement web...</p>
+            <a href="article1.html">Lire plus</a>
+        </article>
+
+        <!-- Article 2 -->
+        <article class="card">
+            <h2>Article 2</h2>
+            <p>Résumé de l'article 2 : HTML, CSS et JavaScript pour débutants...</p>
+            <a href="article2.html">Lire plus</a>
+        </article>
+
+        <!-- Article 3 -->
+        <article class="card">
+            <h2>Article 3</h2>
+            <p>Résumé de l'article 3 : bonnes pratiques pour un blog interactif...</p>
+            <a href="article3.html">Lire plus</a>
+        </article>
+    </main>
+    <a href="log_in.html">log in</a>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2024-2025 Mon Blog</p>
+    </footer>
+</body>
+</html>
